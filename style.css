@@ -57,3 +57,10 @@ blockquote {
 .bad{
     color:indianred;
 }
+
+tr:nth-child(even){background-color: #f2f2f2;}
+tr:nth-child(odd){background-color: white;}
+
+.story p:first-of-type  {
+    font-weight: bold;
+}
