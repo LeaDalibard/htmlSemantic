@@ -47,3 +47,13 @@ blockquote {
 .villagers{
     border-color:coral;
 }
+
+.good, .bad {
+    text-transform: capitalize;
+}
+.good {
+    color:mediumseagreen;
+}
+.bad{
+    color:indianred;
+}
