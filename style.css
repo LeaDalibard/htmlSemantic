@@ -22,3 +22,11 @@ a:hover {
 a:visited {
     background-color: mediumslateblue;
 }
+
+blockquote{
+    width:45%;
+margin:auto;
+    font-size:160%;
+    background-color: #ECECE4;
+    border-left:dashed 3px #1E0E6E;
+}
