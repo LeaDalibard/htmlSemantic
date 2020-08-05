@@ -19,7 +19,7 @@ p,ul,li,td{
 
 a{ text-decoration: none;
     font-size: 20px;
-    background-color:#1E0E6E;
+    background-color:coral;
     color: white;
 }
 a:hover {
@@ -27,14 +27,22 @@ a:hover {
 }
 
 a:visited {
-    background-color: mediumslateblue;
+    background-color: lightcoral;
 }
 
 blockquote {
     width: 45%;
     font-size: 160%;
     background-color: #ECECE4;
-    border-left: dashed 3px #1E0E6E;
+    border-left: dashed 3px;
     padding-left: 30px;
     margin: 80px auto 80px auto;
+    font-style: italic;
+}
+
+.farmer {
+    border-color: #1E0E6E;
+}
+.villagers{
+    border-color:coral;
 }
