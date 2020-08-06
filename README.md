@@ -8,11 +8,12 @@
 2.Create a link CSS File  
 
   -add selectors
+  -use CSS positioning 
+  -use webfonts  
+ 
+3.Check that I have good SEO & Optimize
 
-## What's coming`
+## Actual link
 
--use CSS positioning  
+[https://leadalibard.github.io/progressive-enhancement/](https://leadalibard.github.io/progressive-enhancement/)
 
--use webfonts  
-
--check that I have good SEO
